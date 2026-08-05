@@ -1,2 +1,5 @@
-firmware
-corne_**
+# Artifacts sueltos de builds viejos en la raíz del repo
+/corne_*.uf2
+/firmware/
+
+# firmware_latest/ SÍ se versiona: es el firmware que está flasheado hoy
